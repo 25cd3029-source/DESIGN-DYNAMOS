@@ -61,6 +61,3 @@ It allows users to explore bikes and scooters, view 3D models, book test rides, 
 | **AI Features** | Rule-based chat simulation (client-side JS) |
 
 ---
-
-## 📁 Project Structure
-
