@@ -6,7 +6,7 @@ It allows users to explore bikes and scooters, view 3D models, book test rides, 
 ---
 
 ## 🌐 Live Demo
-👉 [View Live Project](#) **
+👉 [View Live Project](#) *https://design-dynamos.vercel.app/*
 
 ---
 
